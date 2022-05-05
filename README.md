@@ -1,8 +1,9 @@
-<h2> Welcome🙏🏻, I'm Panda! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> ආයුබෝවන් (Welcome)🙏🏻, I'm Lathindu Pramuditha Amarasekara! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="http://www.speralabs.com">Speralabs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+[![Linkedin: lathindu-pramuditha](https://img.shields.io/badge/-lathindu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lathindu-pramuditha/)](https://www.linkedin.com/in/lathindu-pramuditha/)
 ![GitHub followers](https://img.shields.io/github/followers/lathindu1?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=lathindu1.lathindu1)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
@@ -63,18 +64,26 @@ class ProfileOfLathindu extends Life
 
 ```
 
+## My Article
+
+⭐️ [ Laravel Best Practice (Article 1: Naming Conventions) ](https://dev.to/lathindu1/laravel-best-practice-coding-standards-part-01-304l)
+
+⭐️ [ How To Integrate Metamask with Laraval-part 01 ](https://dev.to/lathindu1/metamask-integration-with-laravel-4mng)
+
+⭐️ [ How To Validate Metamask Transactions With EtherScan (How To Integrate Metamask with Laraval-part 02) ](https://dev.to/lathindu1/validate-metamask-transactions-with-etherscan-metamask-integration-with-laravel-part-2-25h6)
+
 ## Public Projets
 
 ⭐️ [ WUSL Notes (Univercity Notes Share Platform) ](https://wuslnotes.com/)
 
 ⭐️ [ Tutorials Project ](https://github.com/lathindu1/tutorials)
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=Panda&theme=dracula)](https://github.com/lathindu1/github-readme-activity-graph)
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=lathindu1&theme=dracula)](https://github.com/lathindu1/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Panda)](https://github.com/lathindu1/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lathindu1)](https://github.com/lathindu1/github-profile-trophy)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
 
-⭐️ From [@PandaDevA](https://github.com/PandaDevA)
+⭐️ From [@lathindu1](https://github.com/lathindu1)
