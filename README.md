@@ -1,11 +1,10 @@
-<h2>Welcome🙏🏻, I'm Lathindu Pramuditha Amarasekara! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Welcome🙏🏻, I'm PandaDevA! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="http://www.speralabs.com">Speralabs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: lathindu-pramuditha](https://img.shields.io/badge/-lathindu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lathindu-pramuditha/)](https://www.linkedin.com/in/lathindu-pramuditha/)
-![GitHub followers](https://img.shields.io/github/followers/lathindu1?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=lathindu1.lathindu1)
+![GitHub followers](https://img.shields.io/github/followers/PandaDevA?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=PandaDevA)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
