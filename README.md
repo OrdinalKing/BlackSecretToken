@@ -69,12 +69,12 @@ class ProfileOfLathindu extends Life
 
 ⭐️ [ Tutorials Project ](https://github.com/lathindu1/tutorials)
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=lathindu1&theme=dracula)](https://github.com/lathindu1/github-readme-activity-graph)
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=Panda&theme=dracula)](https://github.com/lathindu1/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lathindu1)](https://github.com/lathindu1/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Panda)](https://github.com/lathindu1/github-profile-trophy)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
 
-⭐️ From [@lathindu1](https://github.com/PandaDevA)
+⭐️ From [@PandaDevA](https://github.com/PandaDevA)
