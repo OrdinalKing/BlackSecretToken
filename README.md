@@ -1,4 +1,4 @@
-<h2> ආයුබෝවන් (Welcome)🙏🏻, I'm Lathindu Pramuditha Amarasekara! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Welcome🙏🏻, I'm Lathindu Pramuditha Amarasekara! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="http://www.speralabs.com">Speralabs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -78,12 +78,12 @@ class ProfileOfLathindu extends Life
 
 ⭐️ [ Tutorials Project ](https://github.com/lathindu1/tutorials)
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=lathindu1&theme=dracula)](https://github.com/lathindu1/github-readme-activity-graph)
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=Panda&theme=dracula)](https://github.com/lathindu1/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lathindu1)](https://github.com/lathindu1/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PandaDevA)](https://github.com/PandaDevA/github-profile-trophy)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
 
-⭐️ From [@lathindu1](https://github.com/lathindu1)
+⭐️ From [@PandaDevA](https://github.com/PandaDevA)
