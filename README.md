@@ -1,88 +1,125 @@
-<h2>Welcome🙏🏻, I'm PandaDevA! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.speralabs.com">Speralabs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<!--
+**PandaDevA/PandaDevA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![GitHub followers](https://img.shields.io/github/followers/PandaDevA?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=PandaDevA)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+Here are some ideas to get you started:
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-```php
-namespace App\Models;
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-use Illuminate\Database\Eloquent\Factories\HasFactory;
-use Illuminate\Database\Eloquent\Life;
+![](https://visitor-badge.glitch.me/badge?page_id=PandaDevA.PandaDevA)
 
-class ProfileOfLathindu extends Life
-{
-    use HasFactory;
-    const LANGUAGES = [
-        'PHP' => 1,
-        'JAVASCRIPT' => 2,
-        'PYTHON' => 3,
-        'SOLIDITY' => 4,
-        'DART' => 5
-    ];
+<br />
 
-    const FRAMEWORKS = [
-        'LARAVEL' => 1,
-        'FLUTTER' => 2,
-        'DJANGO' => 3,
-        'ANGULAR' => 4,
-        'IONIC' => 5
-    ];
+Hi, I'm a passionate Full Stack block chain developer and a mathematician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-    const EXPERIENCE = 'xxxxxxxxxx of hours from 2017';
+Great experience in building smart contract on EVM, Binance, Harmony and Solana with Solidity and Rust.
+Solid experience in ether.js, web3.js, solana web3.js, react/vue/typescript.
+Strong experience in ERC20/721/1155, BEP20, Candy Machine V2, Metaplex and Anchor.
 
-    const MORE_EXPERIENCE = [
-        'PAYPAL_API' => 1,
-        'STRIPE_API' => 2,
-        'PAYHERE_SDK' => 3,
-        'UPHOLD_API' => 4,
-        'VIMEO_SDK' => 5,
-        'NMI_API' => 6,
-        'SENDGRID_API' => 7,
-        'AWEBER_API' => 8,
-        'GETRESPOND_API' => 9,
-        'REMIX' => 10,
-        'BTCPAY_SERVER' => 11,
-        'BLOCKNIMICS' => 12,
-        'METAMASK' => 13,
-        'WEB3' => 14,
-        'ETHEREUM' => 15,
-        'BLOCK_CHAIN_DEVELOPMENT' => 16,
-        'GIT WITH GITHUB' => 17,
-        'GIT WITH BITBUCKET' => 18,
-        'JIRA' => 19,
-        'TRELLO' => 20,
-        'HUBSTAFF' => 21,
-    ];
-}
+<img align="right" alt="GIF" src="https://github.com/PandaDevA/PandaDevA/blob/main/images/code.gif?raw=true" width="450" height="320" />
 
+### Built NFT projects like Minting, Staking, Breeding, Mutex(Evolution), Marketplace, Launchpad, Utility Token creation, ICO/IDO on EVM & Solana
+
+### Built Simple P2E games like Dice, Guess Number, Moonshot, CoinFlip
+
+### Built DEXs, DAO on EVM and Solana
+
+- 💼 Any freelance work? Do reach, [email](mailto:nightfurry090@gmail.com) :)
+- 💬 Ask me about anything, I am happy to help;
+
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://github.com/PandaDevA/PandaDevA/blob/main/images/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+📊 **This Week I Spent My Time On:**
+
+<!--START_SECTION:waka-->
+
+```text
+JSX           7 hrs   ██████░░░░░░░░░░░░░░░░░░░   15.2 %
+TypeScript   16 hrs   ██████████████░░░░░░░░░░░   34.7 %
+Rust         21 hrs   █████████████████░░░░░░░░   45.6 %
+SCSS          2 hrs   ██▒▒░░░░░░░░░░░░░░░░░░░░░   04.5 %
 ```
 
-## My Article
+<!--END_SECTION:waka-->
 
-⭐️ [ Laravel Best Practice (Article 1: Naming Conventions) ](https://dev.to/lathindu1/laravel-best-practice-coding-standards-part-01-304l)
+## Main Skill
 
-⭐️ [ How To Integrate Metamask with Laraval-part 01 ](https://dev.to/lathindu1/metamask-integration-with-laravel-4mng)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
+![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)
+![](https://img.shields.io/badge/Token-ERC721-informational?style=flat&logo=erc721&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC1155-informational?style=flat&logo=erc1155&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Token-ERC20-informational?style=flat&logo=erc20&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Native_Script-informational?style=flat&logo=nativescript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Ruby_On_Rails-informational?style=flat&logo=ruby&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Quasar-informational?style=flat&logo=quasar&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
-⭐️ [ How To Validate Metamask Transactions With EtherScan (How To Integrate Metamask with Laraval-part 02) ](https://dev.to/lathindu1/validate-metamask-transactions-with-etherscan-metamask-integration-with-laravel-part-2-25h6)
+##
 
-## Public Projets
+📈 My GitHub Stats
 
-⭐️ [ WUSL Notes (Univercity Notes Share Platform) ](https://wuslnotes.com/)
+<p>
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=PandaDevA&sshow_icons=true&theme=gotham&count_private=true">
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=PandaDevA&layout=compact&theme=monokai&count_private=true">
+</p>
 
-⭐️ [ Tutorials Project ](https://github.com/lathindu1/tutorials)
+🚧 **My Todoist Stats:**
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=Panda&theme=dracula)](https://github.com/lathindu1/github-readme-activity-graph)
+<!-- TODO-IST:START -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PandaDevA)](https://github.com/PandaDevA/github-profile-trophy)
+🏆 7,837 Karma Points  
+🌸 Completed 0 tasks today  
+✅ Completed 642 tasks so far  
+⏳ Longest streak is 10 days
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<!-- TODO-IST:END -->
 
----
+## License
 
-⭐️ From [@PandaDevA](https://github.com/PandaDevA)
+[![CC0](https://licensebuttons.net/l/GPL/2.0/88x62.png)](https://creativecommons.org/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/144px-Approved-for-free-cultural-works.svg.png)](https://freedomdefined.org/index.php?title=User:Romaine&action=edit&redlink=1)
