@@ -33,7 +33,7 @@ Strong experience in ERC20/721/1155, BEP20, Candy Machine V2, Metaplex and Ancho
 
 ### Built DEXs, DAO on EVM and Solana
 
-- 💼 Any freelance work? Do reach, [email](mailto:nightfurry090@gmail.com) :)
+- 💼 Any freelance work? Do reach, [email](mailto:mianhua9999@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
