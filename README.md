@@ -103,8 +103,8 @@ SCSS          2 hrs   ██▒▒░░░░░░░░░░░░░░░�
 📈 My GitHub Stats
 
 <p>
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=luckyturtle&sshow_icons=true&theme=gotham&count_private=true">
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=luckyturtle&layout=compact&theme=monokai&count_private=true">
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=BlackSecretToken&sshow_icons=true&theme=gotham&count_private=true">
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlackSecretToken&layout=compact&theme=monokai&count_private=true">
 </p>
 
 🚧 **My Todoist Stats:**
